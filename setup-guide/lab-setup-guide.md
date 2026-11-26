@@ -1,3 +1,5 @@
+---
+
 ### 2. `setup-guide/lab-setup-guide.md`
 
 ```markdown
